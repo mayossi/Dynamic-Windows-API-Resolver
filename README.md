@@ -23,8 +23,8 @@ int main(int argc, char* argv[])
 ```
 The following image shows the import directory of the output executable in CFF Explorer 🌶
 ![import_directory_image](/assets/image.png)
-As you can see - `user32.dll` is not found under the `Module Name` column.
 
+As you can see - `user32.dll` is not found under the `Module Name` column.
 ### Disclaimer
 This repository is for research and educational purposes only, use of this code is your responsibility.  
 I take no responsibility and/or liability for how you choose to use the code available here.  
